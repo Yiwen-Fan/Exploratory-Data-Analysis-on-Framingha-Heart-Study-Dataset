@@ -1,1 +1,4 @@
-# Exploratory-Data-Analysis--EDA--on-Framingha-Heart-Study-Dataset-
+# Exploratory Data Analysis (EDA) on Framingham Heart Study Dataset
+
+Contributor
+- Yiwen Fan
